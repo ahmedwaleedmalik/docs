@@ -378,7 +378,7 @@ shared management interface.
 In KKP *Datastores* are used for two purposes:
 - Storing the VMs files for the worker nodes of vSphere user clusters.
 - Generating the vSphere cloud provider storage configuration for user clusters.
-    In particular to provide the `dafault-datastore` value, that is the default
+    In particular to provide the `default-datastore` value, that is the default
     datastore for dynamic volume provisioning.
 
 *Datastore Clusters* can only be used for the first purpose as it cannot be
